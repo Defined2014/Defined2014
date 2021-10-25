@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+* 🔭 I’m currently working on [PingCAP](https://github.com/pingcap).
+* 🌱 I'm currently learning database, go and rust.
+* ⚡ Fun fact: I love my 🐶(my head portrait).
+* 💬 My LinkedIn [link](https://www.linkedin.com/in/hangjie-jason-mo-075770126/).
+
+<br>
+<br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Defined2014)
+
 <!--
 **Defined2014/Defined2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
