@@ -2,7 +2,7 @@
 
 * 🔭 I’m currently working on [PingCAP](https://github.com/pingcap).
 * 🌱 I'm currently learning database, go, rust and other interesting things.
-* ⚡ Fun fact: I love my 🐶(my head portrait).
+* ⚡ Fun fact: I love my 🐶(my profile picture).
 * 💬 My LinkedIn [link](https://www.linkedin.com/in/hangjie-jason-mo-075770126/).
 
 <br>
